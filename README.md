@@ -1,4 +1,9 @@
 <p align="center">
+ Name: Jackery Fraser
+ Age: 20
+ Gender: Cis male
+ Height: 5'1
+<p align="center">
  ___________________ ❝ 𝙔𝙤𝙪'𝙧𝙚 𝙦𝙪𝙞𝙩𝙚 𝙩𝙝𝙚 𝙥𝙖𝙧𝙖𝙨𝙞𝙩𝙚, 𝙖𝙧𝙚𝙣'𝙩 𝙮𝙤𝙪? ❞  ___________________
 </p>
 <p align="center">
