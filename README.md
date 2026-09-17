@@ -1,11 +1,11 @@
 <p align="center">
- 𝙽𝙰𝙼𝙴: 𝐉𝐚𝐜𝐤𝐞𝐫𝐲 𝐅𝐫𝐚𝐬𝐞𝐫
+ 𝙽𝙰𝙼𝙴: Jackery Fraser
 </p>
 <p align="center">
  𝙰𝙶𝙴: 20
  </p>
  <p align="center">
- 𝙶𝙴𝙽𝙳𝙴𝚁: 𝐂𝐢𝐬 𝐦𝐚𝐥𝐞
+ 𝙶𝙴𝙽𝙳𝙴𝚁: Cis male
   </p>
   <p align="center">
  𝙷𝙴𝙸𝙶𝙷𝚃: 5'1
